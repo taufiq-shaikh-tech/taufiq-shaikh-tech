@@ -1,64 +1,17 @@
-# Taufiq Shaikh
+# 💫 About Me:
+# 👋 Hi, I'm Taufiq Shaikh<br><br>### 🚀 AI Engineer | Machine Learning | Deep Learning | AI Systems<br><br>I am a B.Tech AI student passionate about building **production-ready AI systems** from first principles. My focus is on understanding how machine learning algorithms work internally and engineering scalable AI applications rather than just using libraries.<br><br>---<br><br>## 💡 About Me<br><br>* 🤖 Building AI & Machine Learning projects from scratch<br>* 🧠 Learning Deep Learning, Transformers & Large Language Models<br>* 📊 Strong interest in Mathematics behind AI<br>* ⚡ Exploring GPU-Accelerated AI & ML Systems Engineering<br>* 🔍 Focused on clean, scalable and production-ready code<br>* 🌱 Currently learning Advanced Machine Learning, Deep Learning & MLOps<br>* 🎯 Long-Term Goal: AI/ML Engineer working on next-generation intelligent systems<br><br>---<br><br># 🛠️ Tech Stack<br><br>### Programming<br><br>* Python<br><br>### Machine Learning & Data Science<br><br>* NumPy<br>* Pandas<br>* Matplotlib<br>* Scikit-Learn<br><br>### Deep Learning (Learning)<br><br>* PyTorch<br>* TensorFlow<br><br>### Databases<br><br>* PostgreSQL<br>* MongoDB<br><br>### Web Development<br><br>* FastAPI<br>* Flask<br>* HTML<br>* CSS<br>* JavaScript<br>* React<br><br>### Developer Tools<br><br>* Git<br>* GitHub<br>* Linux<br>* VS Code<br>* Jupyter Notebook<br><br>---<br><br># 🚀 Current Focus<br><br>* Machine Learning Fundamentals<br>* Mathematics for AI<br>* Deep Learning Architectures<br>* Computer Vision<br>* Natural Language Processing<br>* Transformers<br>* Retrieval-Augmented Generation (RAG)<br>* LLM Fine-Tuning<br>* AI System Design<br>* MLOps Fundamentals<br><br>---<br><br># 📌 Featured Projects<br><br>### 🔹 Machine Learning From Scratch<br><br>Implementing core ML algorithms using only NumPy.<br><br>### 🔹 End-to-End Machine Learning Pipeline<br><br>Data preprocessing, feature engineering, model training and deployment.<br><br>### 🔹 Deep Learning Image Classification<br><br>CNN-based image classification using PyTorch.<br><br>### 🔹 Transformer From Scratch<br><br>Building attention mechanisms and transformer architecture.<br><br>### 🔹 RAG & LLM Applications<br><br>Developing Retrieval-Augmented Generation systems using modern AI frameworks.<br><br>### 🔹 AI Multi-Agent Systems<br><br>Designing autonomous AI agents capable of solving complex software engineering tasks.<br><br>---<br><br># 🎯 Career Objective<br><br>To build efficient, scalable and production-grade Artificial Intelligence systems that solve real-world problems through strong engineering practices and mathematical foundations.<br><br>---<br><br># 🌐 Connect With Me<br><br>💼 LinkedIn<br>[www.linkedin.com/in/shaikh-taufiq-4b5185386](http://www.linkedin.com/in/shaikh-taufiq-4b5185386)<br><br>📧 Email<br>[taufiqshaikh7384@gmail.com](mailto:taufiqshaikh7384@gmail.com)<br><br>---<br><br>> *"Keep learning. Keep building. Keep shipping."* 🚀<br>
 
-AI Engineer focused on Machine Learning, Deep Learning, and AI Systems.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaikhtaufiq_59455) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taufique4821) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shaikh Taufiq) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shaikh taufiq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taufiqshaikh7384@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=taufiq-shaikh-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=taufiq-shaikh-tech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=taufiq-shaikh-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## About
-
-I build structured, implementation-driven AI projects with a strong emphasis on fundamentals and system-level understanding.
-
-Currently strengthening:
-- Machine Learning foundations
-- Mathematical implementation of algorithms
-- Deep Learning architectures
-- Scalable AI system design
-
-Long-term direction: ML Systems Engineering & GPU-accelerated AI.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=taufiq-shaikh-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## Core Competencies
-
-- Implementing ML algorithms from scratch
-- Data preprocessing and analysis
-- Model evaluation and optimization
-- Writing clean, modular, production-oriented Python code
-
----
-
-## Tech Stack
-
-**Programming:**  
-Python  
-
-**ML & Data:**  
-NumPy | Pandas | Matplotlib | Scikit-Learn  
-
-**Tools & Systems:**  
-Git | Linux | VS Code  
-
----
-
-## Selected Work (In Progress)
-
-- Linear & Logistic Regression (NumPy Implementation)
-- End-to-End Machine Learning Pipeline
-- Deep Learning Image Classification
-- Transformer Architecture Implementation
-- LLM Fine-Tuning & RAG Systems
-
----
-
-## Objective
-
-To engineer efficient, scalable, and production-ready AI systems aligned with industry-grade standards.
-
----
-
-## Contact
-
-LinkedIn: www.linkedin.com/in/shaikh-taufiq-4b5185386
-
-Email:taufiqshaikh7384@gmail.com
+[![](https://komarev.com/ghpvc/?username=taufiq-shaikh-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
