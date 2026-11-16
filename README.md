@@ -1,122 +1,176 @@
-<!-- Banner -->
-<h1 align="center">Hi, I'm Taufiq Shaikh 👋</h1>
-<h3 align="center">AI Engineer • Machine Learning • Deep Learning • AI Systems</h3>
+\<div align="center">
 
-<p align="center">
-  <a href="https://github.com/taufiq-shaikh-tech">
-    <img src="https://komarev.com/ghpvc/?username=taufiq-shaikh-tech&style=for-the-badge&color=0ea5e9" alt="Profile views" />
-  </a>
-  <a href="https://github.com/taufiq-shaikh-tech?tab=followers">
-    <img src="https://img.shields.io/github/followers/taufiq-shaikh-tech?style=for-the-badge&color=181717&label=Followers" alt="Followers" />
-  </a>
-  <a href="https://github.com/taufiq-shaikh-tech?tab=repositories">
-    <img src="https://img.shields.io/github/stars/taufiq-shaikh-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b&label=Stars" alt="Stars" />
-  </a>
-</p>
+# TAUFIQ SHAIKH
 
----
+### AI Engineer | Machine Learning | Deep Learning | Intelligent Systems
 
-## About Me
+**Engineering intelligent systems. Understanding AI from first principles. Building for the future.**
 
-> Building production-ready AI systems from first principles.
+\<p>
+&#x20; \<a href="[https://github.com/taufiq-shaikh-tech](https://github.com/taufiq-shaikh-tech)">
+&#x20;   \<img src="[https://komarev.com/ghpvc/?username=taufiq-shaikh-tech&style=flat-square&color=0e75b6](https://komarev.com/ghpvc/?username=taufiq-shaikh-tech\&style=flat-square\&color=0e75b6)" alt="Profile Views"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/taufiq-shaikh-tech?tab=followers](https://github.com/taufiq-shaikh-tech?tab=followers)">
+&#x20;   \<img src="[https://img.shields.io/github/followers/taufiq-shaikh-tech?style=flat-square&color=181717](https://img.shields.io/github/followers/taufiq-shaikh-tech?style=flat-square\&color=181717)" alt="Followers"/>
+&#x20; \</a>
+\</p>
 
-- I build AI and machine learning projects with a strong focus on fundamentals.
-- I enjoy understanding how algorithms work internally, not just using libraries.
-- I’m learning Deep Learning, Transformers, LLMs, and MLOps.
-- I care about clean architecture, scalable code, and practical deployment.
-- My long-term goal is to become an AI/ML Engineer working on intelligent systems.
+\</div>
 
 ---
 
-## Tech Stack
+## 01. About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+I'm **Taufiq Shaikh**, an AI & Data Science engineering student focused on building intelligent software systems and exploring the engineering behind modern artificial intelligence.
+
+My interests lie at the intersection of machine learning, deep learning, large language models, AI agents, and scalable AI infrastructure.
+
+I believe in understanding the fundamentals behind technology rather than simply using existing tools.
+
+**What drives me:**
+
+- Building practical AI and machine learning applications.
+- Understanding algorithms and neural networks from first principles.
+- Exploring LLMs, Transformers, RAG, and autonomous AI agents.
+- Developing scalable backend systems for AI applications.
+- Turning complex technical ideas into working solutions.
 
 ---
 
-## Current Focus
+## 02. Technical Expertise
 
-- Machine Learning fundamentals
-- Mathematics for AI
-- Deep learning architectures
-- Computer vision
-- NLP and transformers
-- Retrieval-Augmented Generation
-- LLM fine-tuning
-- AI system design
-- MLOps basics
+### Programming Languages
 
----
+\<p> \<img src="[https://skillicons.dev/icons?i=python,cpp,js,sql](https://skillicons.dev/icons?i=python,cpp,js,sql)" /> \</p>
 
-## Featured Work
+### AI & Machine Learning
 
-| Project | What I’m building |
-|---|---|
-| Machine Learning From Scratch | Core ML algorithms using only NumPy. |
-| End-to-End ML Pipeline | Data prep, training, evaluation, and deployment. |
-| Deep Learning Image Classification | CNN-based image classification in PyTorch. |
-| Transformer From Scratch | Attention and transformer internals from first principles. |
-| RAG & LLM Applications | Retrieval-augmented generation systems for real use cases. |
-| AI Multi-Agent Systems | Autonomous agents for complex software tasks. |
+\<p>
+\<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)" />
+\</p>
 
----
+`NumPy` · `Pandas` · `Matplotlib` · `Computer Vision` · `NLP` · `Transformers` · `LLMs`
 
-## GitHub Activity
+### Backend & Development
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=taufiq-shaikh-tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,postgres,mongodb,supabase](https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,postgres,mongodb,supabase)" />
+\</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=taufiq-shaikh-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### Tools & Infrastructure
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=taufiq-shaikh-tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+\<p>
+\<img src="[https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman](https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman)" />
+\</p>
 
 ---
 
-## Trophies
+## 03. Areas of Interest
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taufiq-shaikh-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+| Domain            | Focus Areas                                           |
+| ----------------- | ----------------------------------------------------- |
+| Machine Learning  | Algorithms, Optimization, Feature Engineering         |
+| Deep Learning     | Neural Networks, CNNs, Model Training                 |
+| Generative AI     | LLMs, Prompt Engineering, Fine-tuning                 |
+| AI Agents         | Multi-Agent Systems, Tool Calling, Agent Architecture |
+| NLP               | Transformers, Embeddings, Semantic Search             |
+| AI Infrastructure | Model Deployment, APIs, MLOps                         |
+| Data Science      | Statistics, Data Analysis, Visualization              |
 
 ---
 
-## Connect
+## 04. What I'm Currently Working On
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaikh-taufiq">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:taufiqshaikh7384@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/shaikhtaufiq_59455">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/taufique4821">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://mastodon.social/@Shaikh%20taufiq">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-</p>
+- Strengthening mathematical foundations for AI.
+- Implementing machine learning algorithms from scratch.
+- Exploring deep learning architectures and Transformers.
+- Building LLM-powered applications and RAG pipelines.
+- Experimenting with autonomous AI agents.
+- Improving software engineering and system design skills.
+
+---
+
+## 05. Featured Engineering Projects
+
+| Project                           | Description                                                              |
+| --------------------------------- | ------------------------------------------------------------------------ |
+| **Machine Learning From Scratch** | Implementing fundamental ML algorithms using NumPy.                      |
+| **End-to-End ML Pipeline**        | Building complete workflows from data preprocessing to model deployment. |
+| **Deep Learning Systems**         | Experimenting with neural networks and computer vision.                  |
+| **Transformer From Scratch**      | Exploring self-attention and transformer architecture.                   |
+| **RAG Applications**              | Building retrieval-augmented generation systems.                         |
+| **AI Multi-Agent Systems**        | Experimenting with autonomous agents and intelligent workflows.          |
+
+*Project descriptions represent areas of development and exploration, not necessarily completed releases.*
+
+---
+
+## 06. GitHub Analytics
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=taufiq-shaikh-tech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=taufiq-shaikh-tech\&show_icons=true\&theme=transparent\&hide_border=true\&rank_icon=github)" />
+
+\<img width="49%" src="[https://streak-stats.demolab.com?user=taufiq-shaikh-tech&theme=transparent&hide_border=true](https://streak-stats.demolab.com?user=taufiq-shaikh-tech\&theme=transparent\&hide_border=true)" />
+
+\<br/>
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=taufiq-shaikh-tech&layout=compact&theme=transparent&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiq-shaikh-tech\&layout=compact\&theme=transparent\&hide_border=true)" />
+
+\</div>
+
+---
+
+## 07. Contribution Activity
+
+\<div align="center">
+
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=taufiq-shaikh-tech&theme=github-compact&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=taufiq-shaikh-tech\&theme=github-compact\&hide_border=true\&area=true)" width="100%" />
+
+\</div>
+
+---
+
+## 08. GitHub Achievements
+
+\<div align="center">
+
+\<img src="[https://github-profile-trophy.vercel.app/?username=taufiq-shaikh-tech&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6](https://github-profile-trophy.vercel.app/?username=taufiq-shaikh-tech\&theme=flat\&no-frame=true\&no-bg=true\&margin-w=8\&column=6)" width="100%" />
+
+\</div>
+
+---
+
+## 09. Let's Connect
+
+I'm always interested in connecting with developers, AI researchers, engineers, and people building meaningful technology.
+
+\<div align="center">
+
+\<a href="[https://www.linkedin.com/in/shaikh-taufiq](https://www.linkedin.com/in/shaikh-taufiq)">
+\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+\</a>
+
+\<a href="mailto\:taufiqshaikh7384\@gmail.com">
+\<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
+\</a>
+
+\<a href="[https://instagram.com/taufique4821](https://instagram.com/taufique4821)">
+\<img src="[https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)"/>
+\</a>
+
+\<a href="[https://discord.gg/shaikhtaufiq_59455](https://discord.gg/shaikhtaufiq_59455)">
+\<img src="[https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)"/>
+\</a>
+
+\</div>
+
+---
+
+\<div align="center">
+
+### "Understand the fundamentals. Engineer the intelligence. Build beyond limitations."
+
+**Taufiq Shaikh | AI & Data Science**
+
+\</div>
